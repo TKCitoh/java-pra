@@ -1,21 +1,21 @@
 
 public class Chapter05 {
     public static void main(String[] args) {
-        long l = 10000000000L;
-        System.out.println(l);
-        double d = 3.14;
-        System.out.println(d);
-        boolean b = true;
-        System.out.println(b);
-
-        Integer i = 100;
-        System.out.println(i);
-        Float f = 1.4142f;
-        System.out.println(f);
-        Character c = 'う';
-        System.out.println(c);
-
-        int[] array = { 0, 10, 20, 30, 40 };
-        System.out.println(array[3]);
+    	long integer1 = 7000000000000000000L;
+    	System.out.println(integer1);
+    	double flout1 = 3.141592;
+    	System.out.println(flout1);
+    	boolean boolean1 = true;
+    	System.out.println(boolean1);
+    	
+    	Float flout2 = 6.24f;
+    	System.out.println(flout2);
+    	Integer integer2 = 7;
+    	System.out.println(integer2);
+    	Character character1 = 'A';
+    	System.out.println(character1);
+    	
+    	int array1[] = {0, 10, 20, 30, 40};
+    	System.out.println(array1[3]);	
     }
 }
