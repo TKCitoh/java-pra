@@ -1,8 +1,9 @@
 
 public class Chapter07 {
-	public static void main (String[] args) {
-		String signal = "blue";
-		switch (signal) {
+	public static void main(String[] args) {
+		String signal = "green";
+		
+		switch (signal){
 		case "red":
 			System.out.println("赤信号です");
 			break;
